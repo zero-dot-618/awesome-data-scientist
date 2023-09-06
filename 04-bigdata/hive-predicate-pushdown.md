@@ -56,7 +56,7 @@ where log_time >= '2023-01-09';
 
 参考资料：
 
-[Apache ORC文档：Indexes](https://orc.apache.org/docs/indexes.html)
-[Hive Optimization — Quick Refresher](https://medium.com/swlh/hive-optimization-quick-refresher-5e596654bc1d)
-[什么是谓词下推，看这一篇就够了](https://www.cnblogs.com/lubians/p/16590243.html)
-[大数据：Hive-ORC文件存储格式](https://www.cnblogs.com/ittangtang/p/7677912.html)
+- [Apache ORC文档：Indexes](https://orc.apache.org/docs/indexes.html)
+- [Hive Optimization — Quick Refresher](https://medium.com/swlh/hive-optimization-quick-refresher-5e596654bc1d)
+- [什么是谓词下推，看这一篇就够了](https://www.cnblogs.com/lubians/p/16590243.html)
+- [大数据：Hive-ORC文件存储格式](https://www.cnblogs.com/ittangtang/p/7677912.html)

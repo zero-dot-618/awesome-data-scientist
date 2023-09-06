@@ -6,7 +6,6 @@
   - 概率统计
   - 信息论
   - 凸优化
-
   - Linux
   - Git
   - 正则表达式
@@ -30,6 +29,7 @@
   - Hadoop
   - HDFS
   - Hive
+    - [谓词下推](./04-bigdata/hive-predicate-pushdown.md)
   - Spark
 
 - 特征处理
