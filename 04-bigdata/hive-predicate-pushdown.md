@@ -1,6 +1,5 @@
-# Hive性能提升
 
-## 利用好谓词下推提升Hive性能
+# 利用好谓词下推提升Hive性能
 
 谓词下推（Predicate Pushdown，简称PPD），是指尽量将SQL查询中的谓词（where条件）提前执行，减少后续操作的数量和计算量。在Hive中默认是开启的，也可以通过配置 `SET hive.optimize.ppd=true;` 显式开启。例如，对于如下SQL
 
