@@ -11,7 +11,7 @@
 
 - 概率论与数理统计
 
-  - 排列组合
+  - [排列组合](./02-statistics/permutation-and-combination.md)
   - 常见分布
   - 参数估计
   - 假设检验
