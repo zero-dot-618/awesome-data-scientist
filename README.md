@@ -5,7 +5,7 @@
   - 线性代数
   - 信息论
   - 凸优化
-  - Linux
+  - [Linux](./01-fundamental/linux.md)
   - Git
   - [正则表达式](./01-fundamental/regex.md)
 
